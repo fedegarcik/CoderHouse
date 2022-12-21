@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "coca",
+		"description": "gaseosa",
+		"price": 1000,
+		"thumbnail": "imagen.jpg",
+		"code": "2",
+		"stock": 100
+	},
+	{
+		"id": 2,
+		"title": "fanta",
+		"description": "gaseosa",
+		"price": 1500,
+		"thumbnail": "imagen.png",
+		"code": "4",
+		"stock": 20
+	}
+]
