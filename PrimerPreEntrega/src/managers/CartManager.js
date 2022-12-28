@@ -81,10 +81,5 @@ class CartManager {
 
 }
 
-let pm = new CartManager("../files/carts.json");
-
-//pm.addcart("fanta", "gaseosa", 1500, "imagen.png", "4", 20);
-//pm.addcart("coca", "gaseosa", 1000, "imagen.jpg", "2", 100);
-
 
 export default new CartManager("./carts.json");

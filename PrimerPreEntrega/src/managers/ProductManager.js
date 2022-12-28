@@ -92,10 +92,4 @@ class ProductManager {
     }
 }
 
-let pm = new ProductManager("../files/productos.json");
-
-//pm.addProduct("fanta", "gaseosa", 1500, "imagen.png", "4", 20);
-//pm.addProduct("coca", "gaseosa", 1000, "imagen.jpg", "2", 100);
-
-
 export default new ProductManager("./productos.json");
